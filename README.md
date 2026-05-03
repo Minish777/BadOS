@@ -1,5 +1,5 @@
 # BadOS
-хуйня
+arch based system very tuff 67 mlp edition idk
 
 # iso
 ```bash
