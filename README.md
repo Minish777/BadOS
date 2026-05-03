@@ -2,5 +2,5 @@
 хуйня
 
 # iso
-'''bash
+```bash
 https://drive.google.com/drive/home
